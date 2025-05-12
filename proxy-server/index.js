@@ -31,7 +31,7 @@ app.post('/', async (req, res) => {
     const emailData = {
       sender: {
         name: "Jeu Concours",
-        email: "noreply@example.com"  // Remplacez par une adresse email valide pour votre domaine
+        email: "contact@tb-agency.fr"  // Remplacez par une adresse email valide pour votre domaine
       },
       to: [
         {
